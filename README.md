@@ -18,6 +18,6 @@ Entrega:
 - Pode clonar e disponibilizar dentro do seu próprio github;
 
 Prazo de entrega:
-- irei avaliar os commits até o dia 17/10;
+- irei avaliar os commits até o dia 07/11;
 - dentro de dois dias retorno com o feedback.
 
