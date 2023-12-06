@@ -1,23 +1,8 @@
-Esse é um teste de um site exemplo que nós temos.
-O foco desse teste é avaliar o conhecimento de html e css - RESPONSIVO, Layout. 
+Criar uma api que consuma os seguintes itens da API Swapi:
 
+API/documentação: https://swapi.dev/ 
+- 2 pessoas;
+- 2 planetas; 
+- 5 naves;
 
-Requisitos:
- - Montar a homepage utilizando html e css;
- - Caso queira utilizar Vue.js está livre o uso.
-
-Material:
-- todo o material da home está na pasta material_recortado;
-- na raiz tem o arquivo de referencia para utilização do Layout;
-
-Dicas:
-- O Layout é feito dentro das grids do Bootstrap, logo, pode ajudar na montagem do home page;
-
-Entrega:
-- Pode dar um fork no repositório e fazer o PR;
-- Pode clonar e disponibilizar dentro do seu próprio github;
-
-Prazo de entrega:
-- irei avaliar os commits dentro de 7 dias após o recebimento;
-- dentro de dois dias retorno com o feedback.
-
+E gere os logs de consulta em json, o request(envio) e o response (retorno).
