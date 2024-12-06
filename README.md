@@ -1,10 +1,9 @@
 Esse é um teste de um site exemplo que nós temos.
-O foco desse teste é avaliar o conhecimento de html e css - RESPONSIVO, Layout. 
-
+O foco desse teste é avaliar o conhecimento de Vue, html, css, Layout e Layout RESPONSIVO.
 
 Requisitos:
  - Montar a homepage utilizando html e css;
- - Caso queira utilizar Vue.js está livre o uso.
+ - Utilizar Vue.js 2 ou Vue 3.
 
 Material:
 - todo o material da home está na pasta material_recortado;
@@ -18,6 +17,6 @@ Entrega:
 - Pode clonar e disponibilizar dentro do seu próprio github;
 
 Prazo de entrega:
-- irei avaliar os commits dentro de 7 dias após o recebimento;
-- dentro de dois dias retorno com o feedback.
+- irei avaliar os commits dentro de 4 dias após o recebimento;
+- dentro de 2 dias retorno com o feedback.
 
